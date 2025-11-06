@@ -41,6 +41,6 @@
 ブラウザのアドレスに `/customers` の追加が必要
 
 **http://localhost:3000/customers**
-gi
+
 として更新すると演習1の画面が開く
 
